@@ -6,3 +6,4 @@ Un blog increíble para el curso de Git y Github de Platzi.
 
 *Creado para el curso de Platzi.
 *Ejemplos
+*Genial
